@@ -1,0 +1,6 @@
+.payment-locked .premium,
+.payment-locked .tool-card {
+  opacity: .45;
+  pointer-events: none;
+  filter: blur(1px);
+}
